@@ -1,1 +1,1 @@
-# practicepython
+Activities from https://www.practicepython.org/
